@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "316px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf0a085dae94400a88d0f850c10ddf94",
+    "_text_": "Go to secondForm",
+    "_top_": {
+        "type": "string",
+        "value": "196px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300px"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sba1ddc7b9df4cc5813c58e8a3f77069",
+    "id": "btnNavigation",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c76a96ebf8eb4412905933b06f65fb6c",
+    "name": "kony.ui.Button",
+    "parent": "flxMain",
+    "pf": "startForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}
