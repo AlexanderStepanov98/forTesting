@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "316px"
+        "value": "50px"
     },
     "_margin_": [
         6,
@@ -26,7 +26,7 @@
     "_text_": "Go to secondForm",
     "_top_": {
         "type": "string",
-        "value": "196px"
+        "value": "50px"
     },
     "_width_": {
         "type": "string",
@@ -35,8 +35,14 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sbe08ebf0411426d8901abdfa9a0c4e0"
+        }
+    },
+    "disabledSkins": {},
     "displaytext": true,
-    "focusskin": "sba1ddc7b9df4cc5813c58e8a3f77069",
+    "focusskin": "safb9ff57fc6439c9bba5d886d090b77",
     "id": "btnNavigation",
     "info": null,
     "iscustomlayout": false,
